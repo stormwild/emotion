@@ -24,7 +24,7 @@
     "facepaint": "^1.2.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
-    "next": "^12.2.0",
+    "next": "^13.5.0",
     "next-mdx-remote": "^4.0.3",
     "prism-react-renderer": "^1.3.5",
     "react": "16.14.0",
